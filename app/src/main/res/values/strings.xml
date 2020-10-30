@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lif</string>
+    <string name="your_plants">Your plants</string>
+    <string name="search_lif">Search</string>
+    <string name="all">All</string>
+    <string name="indoor">Indoor</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="other">Other</string>
+    <string name="days_until_next_water">%d days until next water</string>
+    <string name="upcoming_actions">Upcoming actions</string>
+    <string name="water_in_days">%s: water in %d days</string>
+    <string name="water_today">%s: needs water today</string>
+    <string name="details">Details</string>
+    <string name="log_activity">Log Activity</string>
+    <string name="water">Water\n+</string>
+    <string name="fertilizer">Fertilizer\n+</string>
+</resources>
